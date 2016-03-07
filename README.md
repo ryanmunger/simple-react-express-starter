@@ -1,4 +1,4 @@
-# Simple React Starter w/ Node
+# Simple React Starter w/ Express
 
 ## About
 A simple starting point for a React web app using Express as the server. Includes ES6 support through WebPack.
